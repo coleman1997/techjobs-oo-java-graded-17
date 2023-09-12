@@ -13,6 +13,7 @@ public class Employer {
         nextId++;
     }
 
+
     public Employer(String value) {
         this();
         this.value = value;
